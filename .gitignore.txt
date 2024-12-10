@@ -1,0 +1,37 @@
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Build outputs
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Cache
+.cache/
+
+# System files
+*.lock
+*.pid
+*.seed
+*.pid.lock
+
+# Secrets
+*.env
