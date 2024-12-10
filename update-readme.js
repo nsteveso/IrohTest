@@ -22,7 +22,7 @@ async function updateFile() {
         });
 
         // Update content
-        const updatedContent = "This is the updated content from Iroh!";
+        const updatedContent = "This is the updated content from Iroh! After he helped me fix the secret issue!";
         const encodedContent = Buffer.from(updatedContent).toString("base64");
 
         // Create a commit to update the file
