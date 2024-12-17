@@ -1,9 +1,1 @@
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
-// Test change by Sanctum
+// Change made by ChatGPT via Sanctum
